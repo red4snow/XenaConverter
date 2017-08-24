@@ -20,7 +20,7 @@ public class G_Top extends VBox {
     public static Button convert_btn = new Button("Convert");
     public static Button load_btn = new Button("Load XML");
     public static Button clearlogs_btn = new Button("Clear Logs");
-    public static TextField path_txtfld = new TextField("C:\\Users\\dan\\Desktop\\3.xml");
+    public static TextField path_txtfld = new TextField("");
 
     private VBox vb = new VBox();
     private MenuBar mb = new MenuBar();
